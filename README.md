@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning How to create overhaul mods for large scale strat games
 - 💞️ I’m looking to collaborate on "All" things code
 - 📫 How to reach me On Github Only
-- 😄 Pronouns: He/Him Obvioualy lol
+- 😄 Pronouns: He/Him Obviously lol
 - ⚡ Fun fact: I Like Trains.
 .
 <!---
